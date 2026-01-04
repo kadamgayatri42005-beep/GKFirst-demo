@@ -1,4 +1,4 @@
 # GKFirst-demo
 This is my first Git Repository. 
 <br>
-Author - Gayatri Kadam
+Author - Gayatri Kadam.
